@@ -1,9 +1,9 @@
 @charset "UTF-8";
 /*
- * Override the variables you want to customize, all variables can refer to: 
- * 
+ * Override the variables you want to customize, all variables can refer to:
+ *
  * node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss
- * 
+ *
  */
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
@@ -1065,7 +1065,7 @@ body {
   font-size: 14px;
   line-height: 1.42857;
   color: #333333;
-  background-color: #dff0d8; }
+  background-color: #d7eefa; }
 
 input,
 button,
@@ -1103,7 +1103,7 @@ img {
 .img-thumbnail {
   padding: 4px;
   line-height: 1.42857;
-  background-color: #dff0d8;
+  background-color: #d7eefa;
   border: 1px solid #ddd;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
@@ -2064,7 +2064,7 @@ th {
   .table > tbody + tbody {
     border-top: 2px solid #ddd; }
   .table .table {
-    background-color: #dff0d8; }
+    background-color: #d7eefa; }
 
 .table-condensed > thead > tr > th,
 .table-condensed > thead > tr > td,
@@ -3593,7 +3593,7 @@ tbody.collapse.in {
         border-color: #eeeeee #eeeeee #ddd; }
     .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
       color: #555555;
-      background-color: #dff0d8;
+      background-color: #d7eefa;
       border: 1px solid #ddd;
       border-bottom-color: transparent;
       cursor: default; }
@@ -3647,7 +3647,7 @@ tbody.collapse.in {
     .nav-tabs-justified > .active > a, .nav-tabs.nav-justified > .active > a,
     .nav-tabs-justified > .active > a:hover, .nav-tabs.nav-justified > .active > a:hover,
     .nav-tabs-justified > .active > a:focus, .nav-tabs.nav-justified > .active > a:focus {
-      border-bottom-color: #dff0d8; } }
+      border-bottom-color: #d7eefa; } }
 
 .tab-content > .tab-pane {
   display: none; }
@@ -4328,7 +4328,7 @@ a.badge:hover, a.badge:focus {
   padding: 4px;
   margin-bottom: 20px;
   line-height: 1.42857;
-  background-color: #dff0d8;
+  background-color: #d7eefa;
   border: 1px solid #ddd;
   border-radius: 4px;
   -webkit-transition: border 0.2s ease-in-out;
